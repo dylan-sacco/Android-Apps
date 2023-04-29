@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Color2</string>
+    <string name="create_an_rgb_color">Create an RGB color!</string>
+    <string name="red">Red</string>
+    <string name="Describe_hexDec">Use symbols from 0 to 9 and A to F, to represent values. Please only enter 2 chars in each box.</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="get_color">Get Color</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
